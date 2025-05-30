@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhausaheb</h1>
 <h3 align="center">Mastering DevOps for Cloud Excellence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket7133&label=Profile%20views&color=0e75b6&style=flat" alt="mrbhuvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbhuvi&label=Profile%20views&color=0e75b6&style=flat" alt="mrbhuvi" /> </p>
 
 
 - 🌱 I’m currently learning **Kubernates**
 
-- 👨‍💻 All of my projects are available at [https://sanket-devops-portfolio.netlify.app/](https://sanket-devops-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mrbhuvi.netlify.app//](https://mrbhuvi.netlify.app//)
 
 - 📝 I regularly write articles on [https://medium.com/@mrbhuvi](https://medium.com/@mrsanket45)
 
