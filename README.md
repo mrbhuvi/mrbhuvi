@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrbhuvi.netlify.app//](https://mrbhuvi.netlify.app//)
 
-- 📝 I regularly write articles on [https://medium.com/@mrbhuvi](https://medium.com/@mrsanket45)
+- 📝 I regularly write articles on [https://medium.com/@shingadebhausaheb1](https://medium.com/@shingadebhausaheb1)
 
 - 💬 Ask me about **DevOps , AWS , Docker, Jenkins**
 
